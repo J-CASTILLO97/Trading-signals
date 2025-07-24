@@ -1,0 +1,71 @@
+{
+    "pairs": {
+        "EURUSD": {
+            "enabled": true,
+            "min_spread": 3.0
+        },
+        "GBPUSD": {
+            "enabled": false,
+            "min_spread": 5.0
+        },
+        "AUDUSD": {
+            "enabled": false,
+            "min_spread": 4.0
+        },
+        "NZDUSD": {
+            "enabled": false,
+            "min_spread": 5.0
+        },
+        "USDCHF": {
+            "enabled": false,
+            "min_spread": 4.0
+        },
+        "USDCAD": {
+            "enabled": false,
+            "min_spread": 5.0
+        },
+        "USDJPY": {
+            "enabled": false,
+            "min_spread": 3.0
+        }
+    },
+    "strategy": {
+        "rsi_period": 10,
+        "rsi_oversold": 25,
+        "rsi_overbought": 75,
+        "zscore_window": 40,
+        "zscore_threshold": 1.25, 
+        "atr_period": 14,
+        "atr_multiplier": 2.0,
+        "min_confidence": 0.65,
+        "trend_filter": true,
+        "trend_period": 100
+    },
+    "risk": {
+        "max_risk_per_trade": 0.01,
+        "min_risk_reward": 1.5,
+        "max_spread_pips": 3.0,
+        "use_equity_for_risk": true,
+        "max_position_size": 10.0,
+        "min_account_balance": 1000
+    },
+    "notifications": {
+        "email_enabled": true,
+        "email_smtp": "smtp.gmail.com",
+        "email_port": 587,
+        "email_from": "jorgemcm97@gmail.com",
+        "email_password": "huvw rmue uvnx ldzg",
+        "email_to": "jorgemcm97@gmail.com",
+        "telegram_enabled": false,
+        "telegram_token": "",
+        "telegram_chat_id": ""
+    },
+    "schedule": {
+        "check_interval_minutes": 5,
+        "trading_hours": {
+            "start": "07:50",
+            "end": "17:00"
+        },
+        "avoid_news_times": true
+    }
+}

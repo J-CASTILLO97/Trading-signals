@@ -1,0 +1,266 @@
+2025-07-21 14:43:28,820 - INFO - Archivo de configuraci�n creado: config.json
+2025-07-21 14:43:40,700 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 14:43:40,720 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:40,726 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:41,203 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:41,504 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:41,510 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:41,783 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 14:43:41,784 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,788 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,788 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,788 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,788 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,797 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,797 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:13:41,797 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,818 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,825 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,833 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,840 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,848 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,854 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 15:43:41,858 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,870 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,871 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,886 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,902 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,903 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,932 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:13:41,933 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,947 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:33:50,955 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,965 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,970 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,978 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,983 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,988 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:33:50,996 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,724 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:37:09,728 - ERROR - Error procesando EURUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,737 - ERROR - Error procesando GBPUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,737 - ERROR - Error procesando AUDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,753 - ERROR - Error procesando NZDUSD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,753 - ERROR - Error procesando USDCHF: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,753 - ERROR - Error procesando USDCAD: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:37:09,772 - ERROR - Error procesando USDJPY: Length mismatch: Expected axis has 7 elements, new values have 6 elements
+2025-07-21 16:43:36,584 - INFO - Iniciando escaneo de mercados...
+2025-07-21 16:43:36,594 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:43:36,596 - WARNING - Número inesperado de columnas para EURUSD: 7
+2025-07-21 16:43:36,621 - INFO - EURUSD: Spread muy alto (5.8 pips)
+2025-07-21 16:43:36,630 - WARNING - Número inesperado de columnas para GBPUSD: 7
+2025-07-21 16:43:36,641 - INFO - GBPUSD: Spread muy alto (9.0 pips)
+2025-07-21 16:43:36,642 - WARNING - Número inesperado de columnas para AUDUSD: 7
+2025-07-21 16:43:36,645 - INFO - AUDUSD: Spread muy alto (4.8 pips)
+2025-07-21 16:43:36,650 - WARNING - Número inesperado de columnas para NZDUSD: 7
+2025-07-21 16:43:36,656 - INFO - NZDUSD: Spread muy alto (4.3 pips)
+2025-07-21 16:43:36,658 - WARNING - Número inesperado de columnas para USDCHF: 7
+2025-07-21 16:43:38,261 - INFO - USDCHF: Spread muy alto (4.5 pips)
+2025-07-21 16:43:38,261 - WARNING - Número inesperado de columnas para USDCAD: 7
+2025-07-21 16:43:38,283 - INFO - USDCAD: Spread muy alto (7.6 pips)
+2025-07-21 16:43:38,285 - WARNING - Número inesperado de columnas para USDJPY: 7
+2025-07-21 16:43:38,294 - INFO - USDJPY: Spread muy alto (36.0 pips)
+2025-07-21 16:43:38,295 - INFO - No se encontraron señales en este momento
+2025-07-21 16:46:37,229 - INFO - Iniciando escaneo de mercados...
+2025-07-21 16:46:37,266 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:46:37,273 - WARNING - Número inesperado de columnas para EURUSD: 7
+2025-07-21 16:46:37,284 - INFO - EURUSD: Spread muy alto (5.1 pips)
+2025-07-21 16:46:37,285 - WARNING - Número inesperado de columnas para GBPUSD: 7
+2025-07-21 16:46:37,290 - INFO - GBPUSD: Spread muy alto (8.4 pips)
+2025-07-21 16:46:37,290 - WARNING - Número inesperado de columnas para AUDUSD: 7
+2025-07-21 16:46:37,301 - INFO - AUDUSD: Spread muy alto (5.3 pips)
+2025-07-21 16:46:37,301 - WARNING - Número inesperado de columnas para NZDUSD: 7
+2025-07-21 16:46:37,307 - INFO - NZDUSD: Spread muy alto (3.8 pips)
+2025-07-21 16:46:37,307 - WARNING - Número inesperado de columnas para USDCHF: 7
+2025-07-21 16:46:37,316 - INFO - USDCHF: Spread muy alto (6.1 pips)
+2025-07-21 16:46:37,318 - WARNING - Número inesperado de columnas para USDCAD: 7
+2025-07-21 16:46:37,323 - INFO - USDCAD: Spread muy alto (7.3 pips)
+2025-07-21 16:46:37,323 - WARNING - Número inesperado de columnas para USDJPY: 7
+2025-07-21 16:46:37,331 - INFO - USDJPY: Spread muy alto (36.0 pips)
+2025-07-21 16:46:37,332 - INFO - No se encontraron señales en este momento
+2025-07-21 16:47:48,876 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-21 16:47:48,876 - INFO - Iniciando escaneo de mercados...
+2025-07-21 16:47:48,915 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:47:48,915 - WARNING - Número inesperado de columnas para EURUSD: 7
+2025-07-21 16:47:48,955 - INFO - EURUSD: Spread muy alto (4.5 pips)
+2025-07-21 16:47:48,965 - WARNING - Número inesperado de columnas para GBPUSD: 7
+2025-07-21 16:47:48,999 - INFO - GBPUSD: Spread muy alto (8.3 pips)
+2025-07-21 16:47:49,005 - WARNING - Número inesperado de columnas para AUDUSD: 7
+2025-07-21 16:47:49,021 - INFO - AUDUSD: Spread muy alto (5.2 pips)
+2025-07-21 16:47:49,032 - WARNING - Número inesperado de columnas para NZDUSD: 7
+2025-07-21 16:47:49,052 - INFO - NZDUSD: Spread muy alto (3.6 pips)
+2025-07-21 16:47:49,058 - WARNING - Número inesperado de columnas para USDCHF: 7
+2025-07-21 16:47:49,079 - INFO - USDCHF: Spread muy alto (5.6 pips)
+2025-07-21 16:47:49,085 - WARNING - Número inesperado de columnas para USDCAD: 7
+2025-07-21 16:47:49,106 - INFO - USDCAD: Spread muy alto (7.0 pips)
+2025-07-21 16:47:49,111 - WARNING - Número inesperado de columnas para USDJPY: 7
+2025-07-21 16:47:49,134 - INFO - USDJPY: Spread muy alto (38.0 pips)
+2025-07-21 16:47:49,135 - INFO - No se encontraron señales en este momento
+2025-07-21 16:51:42,167 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-21 16:51:42,170 - INFO - Iniciando escaneo de mercados...
+2025-07-21 16:51:42,208 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-21 16:51:42,401 - INFO - No se encontraron señales en este momento
+2025-07-21 16:56:42,444 - INFO - Iniciando escaneo de mercados...
+2025-07-21 16:56:42,505 - INFO - No se encontraron señales en este momento
+2025-07-21 17:01:42,548 - INFO - Fuera del horario de trading (08:00:00 - 17:00:00)
+2025-07-22 07:53:45,071 - INFO - Iniciando escaneo de mercados...
+2025-07-22 07:53:45,304 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 07:53:45,565 - INFO - No se encontraron señales en este momento
+2025-07-22 07:54:22,928 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 07:54:22,931 - INFO - Fuera del horario de trading (08:00:00 - 10:00:00)
+2025-07-22 07:59:22,932 - INFO - Fuera del horario de trading (08:00:00 - 10:00:00)
+2025-07-22 08:00:37,017 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 08:00:37,018 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:00:37,029 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 08:00:37,117 - INFO - No se encontraron señales en este momento
+2025-07-22 08:05:37,118 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:05:37,176 - INFO - No se encontraron señales en este momento
+2025-07-22 08:10:37,177 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:10:37,222 - INFO - No se encontraron señales en este momento
+2025-07-22 08:15:37,223 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:15:37,266 - INFO - No se encontraron señales en este momento
+2025-07-22 08:17:53,123 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 08:17:53,123 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:17:53,133 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 08:17:57,814 - INFO - Email enviado para señal AUDUSD SELL
+2025-07-22 08:18:00,453 - INFO - Email enviado para señal NZDUSD SELL
+2025-07-22 08:23:00,454 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:23:00,544 - INFO - No se encontraron señales en este momento
+2025-07-22 08:28:00,544 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:28:00,591 - INFO - No se encontraron señales en este momento
+2025-07-22 08:33:00,592 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:33:00,707 - INFO - No se encontraron señales en este momento
+2025-07-22 08:38:00,707 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:38:00,808 - INFO - No se encontraron señales en este momento
+2025-07-22 08:43:00,809 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:43:00,882 - INFO - No se encontraron señales en este momento
+2025-07-22 08:53:54,287 - INFO - Iniciando escaneo de mercados...
+2025-07-22 08:53:54,865 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 08:53:54,933 - INFO - No se encontraron señales en este momento
+2025-07-22 09:03:44,734 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 09:03:44,736 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:03:44,769 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 09:03:44,822 - INFO - No se encontraron señales en este momento
+2025-07-22 09:08:44,823 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:08:44,931 - INFO - No se encontraron señales en este momento
+2025-07-22 09:13:44,932 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:13:45,036 - INFO - No se encontraron señales en este momento
+2025-07-22 09:14:35,401 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 09:14:35,404 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:14:35,447 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 09:14:35,604 - INFO - No se encontraron señales en este momento
+2025-07-22 09:19:35,604 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:19:35,708 - INFO - No se encontraron señales en este momento
+2025-07-22 09:24:35,710 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:24:35,830 - INFO - No se encontraron señales en este momento
+2025-07-22 09:29:35,832 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:29:35,874 - INFO - No se encontraron señales en este momento
+2025-07-22 09:51:37,225 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:51:39,612 - INFO - Email enviado para señal USDCAD BUY
+2025-07-22 09:56:12,342 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-22 09:56:12,343 - INFO - Iniciando escaneo de mercados...
+2025-07-22 09:56:12,355 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-22 09:56:14,751 - INFO - Email enviado para señal USDCAD BUY
+2025-07-22 09:56:16,758 - INFO - Email enviado para señal USDJPY BUY
+2025-07-22 10:01:16,759 - INFO - Fuera del horario de trading (08:00:00 - 10:00:00)
+2025-07-23 08:19:53,866 - INFO - Archivo de configuración creado: config.json
+2025-07-23 08:55:47,754 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-23 08:55:47,754 - INFO - Iniciando escaneo de mercados...
+2025-07-23 08:56:03,043 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-23 08:56:03,312 - INFO - Tamaño calculado para USDCAD: 8.01 lotes (Riesgo: $1000.00, 17.0 pips)
+2025-07-23 08:56:03,312 - INFO - Señal encontrada: USDCAD BUY
+2025-07-23 08:56:03,320 - INFO - Se encontraron 1 señal(es)
+2025-07-23 08:56:05,730 - INFO - Email enviado para señal USDCAD BUY
+2025-07-23 09:01:05,731 - INFO - Iniciando escaneo de mercados...
+2025-07-23 09:01:05,861 - INFO - No se encontraron señales en este momento
+2025-07-23 09:06:05,862 - INFO - Iniciando escaneo de mercados...
+2025-07-23 09:06:06,012 - INFO - No se encontraron señales en este momento
+2025-07-23 09:11:06,014 - INFO - Iniciando escaneo de mercados...
+2025-07-23 09:11:06,094 - INFO - No se encontraron señales en este momento
+2025-07-23 14:47:15,097 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-23 14:47:15,098 - INFO - Iniciando escaneo de mercados...
+2025-07-23 14:47:15,110 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-23 14:47:15,122 - INFO - No se encontraron señales en este momento
+2025-07-23 14:52:15,125 - INFO - Iniciando escaneo de mercados...
+2025-07-23 14:52:15,154 - INFO - No se encontraron señales en este momento
+2025-07-23 14:57:15,156 - INFO - Iniciando escaneo de mercados...
+2025-07-23 14:57:15,182 - INFO - No se encontraron señales en este momento
+2025-07-23 15:02:15,183 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:02:15,194 - INFO - No se encontraron señales en este momento
+2025-07-23 15:07:15,196 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:07:15,488 - INFO - No se encontraron señales en este momento
+2025-07-23 15:12:15,489 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:12:15,501 - INFO - No se encontraron señales en este momento
+2025-07-23 15:17:15,503 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:17:15,510 - INFO - No se encontraron señales en este momento
+2025-07-23 15:21:48,205 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-23 15:21:48,206 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:21:48,238 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-23 15:21:48,391 - INFO - No se encontraron señales en este momento
+2025-07-23 15:26:48,392 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:26:48,400 - INFO - No se encontraron señales en este momento
+2025-07-23 15:31:48,401 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:31:48,428 - INFO - No se encontraron señales en este momento
+2025-07-23 15:36:48,429 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:36:48,437 - INFO - No se encontraron señales en este momento
+2025-07-23 15:41:48,439 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:41:48,466 - INFO - No se encontraron señales en este momento
+2025-07-23 15:46:48,468 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:46:48,494 - INFO - No se encontraron señales en este momento
+2025-07-23 15:51:48,495 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:51:48,520 - INFO - No se encontraron señales en este momento
+2025-07-23 15:56:48,522 - INFO - Iniciando escaneo de mercados...
+2025-07-23 15:56:48,549 - INFO - No se encontraron señales en este momento
+2025-07-23 16:01:48,551 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:01:48,632 - INFO - No se encontraron señales en este momento
+2025-07-23 16:06:48,633 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:06:48,665 - INFO - No se encontraron señales en este momento
+2025-07-23 16:11:48,667 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:11:48,688 - INFO - No se encontraron señales en este momento
+2025-07-23 16:16:48,697 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:16:48,728 - INFO - No se encontraron señales en este momento
+2025-07-23 16:21:48,730 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:21:48,750 - INFO - No se encontraron señales en este momento
+2025-07-23 16:26:48,759 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:26:48,792 - INFO - No se encontraron señales en este momento
+2025-07-23 16:31:48,794 - INFO - Iniciando escaneo de mercados...
+2025-07-23 16:31:48,823 - INFO - No se encontraron señales en este momento
+2025-07-24 07:46:26,295 - INFO - Fuera del horario de trading (08:00:00 - 17:00:00)
+2025-07-24 07:46:57,112 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-24 07:46:57,115 - INFO - Fuera del horario de trading (08:00:00 - 17:00:00)
+2025-07-24 07:50:04,801 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-24 07:50:04,804 - INFO - Iniciando escaneo de mercados...
+2025-07-24 07:50:04,841 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-24 07:50:04,862 - INFO - No se encontraron señales en este momento
+2025-07-24 07:55:04,863 - INFO - Iniciando escaneo de mercados...
+2025-07-24 07:55:04,893 - INFO - No se encontraron señales en este momento
+2025-07-24 08:00:04,894 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:00:04,923 - INFO - No se encontraron señales en este momento
+2025-07-24 08:05:04,928 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:05:04,953 - INFO - No se encontraron señales en este momento
+2025-07-24 08:10:04,971 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:10:04,989 - INFO - No se encontraron señales en este momento
+2025-07-24 08:15:05,007 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:15:05,014 - INFO - No se encontraron señales en este momento
+2025-07-24 08:20:05,032 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:20:05,039 - INFO - No se encontraron señales en este momento
+2025-07-24 08:25:05,052 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:25:05,059 - INFO - No se encontraron señales en este momento
+2025-07-24 08:30:05,072 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:30:05,078 - INFO - No se encontraron señales en este momento
+2025-07-24 08:35:05,091 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:35:05,099 - INFO - No se encontraron señales en este momento
+2025-07-24 08:40:05,110 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:40:05,117 - INFO - No se encontraron señales en este momento
+2025-07-24 08:45:05,126 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:45:05,150 - INFO - No se encontraron señales en este momento
+2025-07-24 08:50:05,161 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:50:05,186 - INFO - No se encontraron señales en este momento
+2025-07-24 08:55:05,196 - INFO - Iniciando escaneo de mercados...
+2025-07-24 08:55:05,225 - INFO - No se encontraron señales en este momento
+2025-07-24 09:00:05,232 - INFO - Iniciando escaneo de mercados...
+2025-07-24 09:00:05,276 - INFO - No se encontraron señales en este momento
+2025-07-24 09:05:05,284 - INFO - Iniciando escaneo de mercados...
+2025-07-24 09:05:05,299 - INFO - No se encontraron señales en este momento
+2025-07-24 13:41:28,589 - INFO - Iniciando escaneo de mercados...
+2025-07-24 13:41:28,634 - INFO - No se encontraron señales en este momento
