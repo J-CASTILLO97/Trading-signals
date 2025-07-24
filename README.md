@@ -1,6 +1,6 @@
 # 📈 Sistema de Señales Forex con MT5
 
-Un sistema automatizado de generación de señales de trading para el mercado Forex que utiliza MetaTrader 5 como fuente de datos y análisis técnico para identificar oportunidades de trading.
+Un sistema automatizado de generación de señales de trading para el mercado Forex que utiliza MetaTrader 5 como fuente de datos y análisis técnico para identificar oportunidades de trading. se puede refinar mucho más, puedes porbar configurar los parametros a tu gusto y realizar el BackTesting antes de considerar emplearl en un escenario real.
 
 ## 🚀 Características
 
