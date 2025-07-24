@@ -53,9 +53,9 @@
         "email_enabled": true,
         "email_smtp": "smtp.gmail.com",
         "email_port": 587,
-        "email_from": "jorgemcm97@gmail.com",
-        "email_password": "huvw rmue uvnx ldzg",
-        "email_to": "jorgemcm97@gmail.com",
+        "email_from": "TuEmail@gmail.com",
+        "email_password": "##########",
+        "email_to": "TuEmail@gmail.com",
         "telegram_enabled": false,
         "telegram_token": "",
         "telegram_chat_id": ""
