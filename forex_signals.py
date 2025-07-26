@@ -61,7 +61,8 @@ class ForexSignalGenerator:
                 "NZDUSD": {"enabled": True, "min_spread": 5.0},
                 "USDCHF": {"enabled": True, "min_spread": 4.0},
                 "USDCAD": {"enabled": True, "min_spread": 5.0},
-                "USDJPY": {"enabled": True, "min_spread": 3.0}
+                "USDJPY": {"enabled": True, "min_spread": 3.0},
+                "XAUUSD": {"enabled": True, "min_spread": 5.0}
             },
             "strategy": {
                 "rsi_period": 14,

@@ -4,8 +4,8 @@
             "enabled": true,
             "min_spread": 3.0
         },
-        "GBPUSD": {
-            "enabled": false,
+        "XAUUSD": {
+            "enabled": true,
             "min_spread": 5.0
         },
         "AUDUSD": {
@@ -42,8 +42,8 @@
         "trend_period": 100
     },
     "risk": {
-        "max_risk_per_trade": 0.01,
-        "min_risk_reward": 1.5,
+        "max_risk_per_trade": 0.02,
+        "min_risk_reward": 2,
         "max_spread_pips": 3.0,
         "use_equity_for_risk": true,
         "max_position_size": 10.0,

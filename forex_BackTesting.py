@@ -65,7 +65,8 @@ class ForexBacktester:
                 "NZDUSD": {"enabled": True, "min_spread": 5.0},
                 "USDCHF": {"enabled": True, "min_spread": 4.0},
                 "USDCAD": {"enabled": True, "min_spread": 5.0},
-                "USDJPY": {"enabled": True, "min_spread": 3.0}
+                "USDJPY": {"enabled": True, "min_spread": 3.0},
+                "XAUUSD": {"enabled": True, "min_spread": 5.0}
             },
             "strategy": {
                 "rsi_period": 14,
@@ -117,7 +118,7 @@ class ForexBacktester:
         self.mt5_connected = True
         return True
     
-    def get_historical_data(self, symbol: str, timeframe=mt5.TIMEFRAME_M15, # TEMPORALIDAD 1H
+    def get_historical_data(self, symbol: str, timeframe=mt5.TIMEFRAME_M5, # TEMPORALIDAD 15M
                            start_date: datetime = None, end_date: datetime = None) -> Optional[pd.DataFrame]:
         """Obtener datos históricos desde MT5"""
         if not self.mt5_connected:
