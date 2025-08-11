@@ -264,3 +264,25 @@
 2025-07-24 09:05:05,299 - INFO - No se encontraron señales en este momento
 2025-07-24 13:41:28,589 - INFO - Iniciando escaneo de mercados...
 2025-07-24 13:41:28,634 - INFO - No se encontraron señales en este momento
+2025-07-30 08:02:38,054 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-30 08:02:38,056 - INFO - Iniciando escaneo de mercados...
+2025-07-30 08:03:03,021 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-30 08:03:04,114 - INFO - XAUUSD: Spread muy alto (16.0 pips)
+2025-07-30 08:03:04,114 - INFO - No se encontraron señales en este momento
+2025-07-30 08:08:04,115 - INFO - Iniciando escaneo de mercados...
+2025-07-30 08:08:04,144 - INFO - XAUUSD: Spread muy alto (16.0 pips)
+2025-07-30 08:08:04,145 - INFO - No se encontraron señales en este momento
+2025-07-30 08:13:04,145 - INFO - Iniciando escaneo de mercados...
+2025-07-30 08:13:04,158 - INFO - XAUUSD: Spread muy alto (16.0 pips)
+2025-07-30 08:13:04,158 - INFO - No se encontraron señales en este momento
+2025-07-30 08:18:04,159 - INFO - Iniciando escaneo de mercados...
+2025-07-30 08:18:04,172 - INFO - XAUUSD: Spread muy alto (15.0 pips)
+2025-07-30 08:18:04,172 - INFO - No se encontraron señales en este momento
+2025-07-31 07:45:52,274 - INFO - Iniciando monitoreo continuo (cada 5 minutos)
+2025-07-31 07:45:52,277 - INFO - Fuera del horario de trading (07:50:00 - 17:00:00)
+2025-07-31 07:50:52,278 - INFO - Iniciando escaneo de mercados...
+2025-07-31 07:51:22,190 - INFO - Conectado a MT5 - Cuenta: 5038355091, Broker: MetaQuotes Ltd.
+2025-07-31 07:51:22,291 - INFO - No se encontraron señales en este momento
+2025-07-31 07:56:22,292 - INFO - Iniciando escaneo de mercados...
+2025-07-31 07:56:22,365 - INFO - XAUUSD: Spread muy alto (15.0 pips)
+2025-07-31 07:56:22,366 - INFO - No se encontraron señales en este momento

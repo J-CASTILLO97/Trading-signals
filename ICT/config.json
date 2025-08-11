@@ -1,0 +1,22 @@
+{
+    "email": {
+        "enabled": true,
+        "smtp_server": "smtp.gmail.com",
+        "port": 587,
+        "email": "jorgemcm97@gmail.com",
+        "password": "huvw rmue uvnx ldzg",
+        "recipient": "jorgemcm97@gmail.com"
+    },
+    "mt5": {
+        "auto_connect": true,
+        "login": null,
+        "password": "",
+        "server": ""
+    },
+    "trading": {
+        "default_balance": 10000,
+        "risk_percentage": 1.0,
+        "default_symbols": ["EURUSD", "XAUUSD", "GBPUSD"],
+        "default_interval": 5
+    }
+}
