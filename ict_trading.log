@@ -1,0 +1,13 @@
+2025-08-14 09:01:55,154 - INFO - ============================================================
+2025-08-14 09:01:55,157 - INFO - ============================================================
+2025-08-14 09:01:55,158 - INFO - Conectando a MetaTrader 5...
+2025-08-14 09:01:55,158 - ERROR - MetaTrader5 module no está disponible
+2025-08-14 09:12:14,938 - INFO - ============================================================
+2025-08-14 09:12:14,941 - INFO - ============================================================
+2025-08-14 09:12:14,941 - INFO - Conectando a MetaTrader 5...
+2025-08-14 09:12:14,941 - ERROR - MetaTrader5 module no está disponible
+2025-08-14 09:12:23,295 - INFO - Presione Ctrl+C para detener...
+
+2025-08-14 09:12:23,884 - INFO - Confianza insuficiente para EURUSD: 35.0% < 60%
+2025-08-14 09:12:24,139 - INFO - Confianza insuficiente para XAUUSD: 35.0% < 60%
+2025-08-14 09:12:24,376 - INFO - Confianza insuficiente para GBPUSD: 35.0% < 60%
